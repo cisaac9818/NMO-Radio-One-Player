@@ -36,3 +36,9 @@ switches, and showed radio metadata and an NMO Television video image. Complete
 sound playback and mobile-device checks remain necessary before cutover.
 
 The page is static. Contact actions are email links, not a server-backed form.
+
+## Artist pages and policy preservation
+
+Original app privacy statement and Roku terms were retrieved from the old /about-1 URL and preserved under /privacy-policy/, /terms-of-use/ and /about-1/. A distinct website notice describes the email-based submission workflow. No application privacy practice was independently audited.
+
+Submission and consent pages prepare local records and mailto drafts. They do not send messages or save responses to a database. Artists must attach/paste the record and send the email. The signed record includes the full fixed release text, acknowledgments, selected channels, typed signature, local signing date and client-generated UTC preparation time. That timestamp is not a verified signing or delivery time; the received email provides the receipt record. Before relying on the new permission terms, obtain appropriate review of rights, distribution scope and compensation language.
